@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to 3DP INFO
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+I'm trying to build a repository of useful info for 3D printing.
+Everything is free to share and feel free to help make contributions.
 
-## Commands
+## To-Do
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* `Filament Guide` - Types of filament and what to use it for. General print settings and manufacture suggestions. 
+* `Vendor Recommendations` - links to people we trust vetting will take place with all vendor before being added.
+* `Printer Recommendations` - Strict requirements on manufactures being open and having a good track record.
+* `More stuff` - Print tuning guides, model recommendations, and 3d modeling tips.
