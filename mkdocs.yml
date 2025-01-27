@@ -1,0 +1,16 @@
+site_name: 3DP INFO
+site_url: https://3dpinfo.com
+theme:
+  name: material
+  icon:
+    logo: material/printer-3d-nozzle
+  palette:
+    scheme: slate
+    primary: black
+    accent: deep purple
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
